@@ -7,3 +7,5 @@ List of all the problems solved on LeetCode:
 - Unique Morse Code Words - Path(LeetCode/Algorithms/Unique Morse Code Words)
 - Hamming Distance - Path(LeetCode/Algorithms/Hamming Distance)
 - Judge Route Circle - Path(LeetCode/Algorithms/Judge Route Circle)
+- Self Dividing Numbers - Path(LeetCode/Algorithms/Self Dividing Numbers)
+- Array Partition I - Path(LeetCode/Algorithms/Array Partition I)
