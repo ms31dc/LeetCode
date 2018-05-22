@@ -9,3 +9,4 @@ List of all the problems solved on LeetCode:
 - Judge Route Circle - Path(LeetCode/Algorithms/Judge Route Circle)
 - Self Dividing Numbers - Path(LeetCode/Algorithms/Self Dividing Numbers)
 - Array Partition I - Path(LeetCode/Algorithms/Array Partition I)
+- Number of Lines To Write String - Path(LeetCode/Algorithms/Number of Lines To Write String)
