@@ -10,3 +10,5 @@ List of all the problems solved on LeetCode:
 - Self Dividing Numbers - Path(LeetCode/Algorithms/Self Dividing Numbers)
 - Array Partition I - Path(LeetCode/Algorithms/Array Partition I)
 - Number of Lines To Write String - Path(LeetCode/Algorithms/Number of Lines To Write String)
+- Shortest Distance to a Character - Path(LeetCode/Algorithms/Shortest Distance to a Character)
+- Number Complement - Path(LeetCode/Algorithms/Number Complement)
