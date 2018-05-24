@@ -13,3 +13,5 @@ List of all the problems solved on LeetCode:
 - Shortest Distance to a Character - Path(LeetCode/Algorithms/Shortest Distance to a Character)
 - Number Complement - Path(LeetCode/Algorithms/Number Complement)
 - Reverse String - Path(LeetCode/Algorithms/Reverse String)
+- Keyboard Row - Path(LeetCode/Algorithms/Keyboard Row)
+- Baseball Game - Path(LeetCode/Algorithms/Baseball Game)
