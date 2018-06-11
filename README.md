@@ -15,3 +15,6 @@ List of all the problems solved on LeetCode:
 - Reverse String - Path(LeetCode/Algorithms/Reverse String)
 - Keyboard Row - Path(LeetCode/Algorithms/Keyboard Row)
 - Baseball Game - Path(LeetCode/Algorithms/Baseball Game)
+- Two Sum - Path(LeetCode/Algorithms/Two Sum)
+- Reverse Integer - Path(LeetCode/Algorithms/Reverse Integer)
+- Search Insert Position - Path(LeetCode/Algorithms/Search Insert Position)
