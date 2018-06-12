@@ -18,3 +18,6 @@ List of all the problems solved on LeetCode:
 - Two Sum - Path(LeetCode/Algorithms/Two Sum)
 - Reverse Integer - Path(LeetCode/Algorithms/Reverse Integer)
 - Search Insert Position - Path(LeetCode/Algorithms/Search Insert Position)
+- Plus One - Path(LeetCode/Algorithms/Plus One)
+- Add Binary - Path(LeetCode/Algorithms/Add Binary)
+- Square Root Of X - Path(LeetCode/Algorithms/Square Root Of X)
