@@ -21,3 +21,6 @@ List of all the problems solved on LeetCode:
 - Plus One - Path(LeetCode/Algorithms/Plus One)
 - Add Binary - Path(LeetCode/Algorithms/Add Binary)
 - Square Root Of X - Path(LeetCode/Algorithms/Square Root Of X)
+- Single Number - Path(LeetCode/Algorithms/Single Number)
+- Majority Element - Path(LeetCode/Algorithms/Majority Element)
+- Excel Sheet Column Number - Path(LeetCode/Algorithms/Excel Sheet Column Number)
