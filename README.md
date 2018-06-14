@@ -24,3 +24,8 @@ List of all the problems solved on LeetCode:
 - Single Number - Path(LeetCode/Algorithms/Single Number)
 - Majority Element - Path(LeetCode/Algorithms/Majority Element)
 - Excel Sheet Column Number - Path(LeetCode/Algorithms/Excel Sheet Column Number)
+- Count Primes - Path(LeetCode/Algorithms/Count Primes)
+- Add Digits - Path(LeetCode/Algorithms/Add Digits)
+- Missing Number - Path(LeetCode/Algorithms/Missing Number)
+- Move Zeroes - Path(LeetCode/Algorithms/Move Zeroes)
+- Nim Game - Path(LeetCode/Algorithms/Nim Game)
