@@ -29,3 +29,8 @@ List of all the problems solved on LeetCode:
 - Missing Number - Path(LeetCode/Algorithms/Missing Number)
 - Move Zeroes - Path(LeetCode/Algorithms/Move Zeroes)
 - Nim Game - Path(LeetCode/Algorithms/Nim Game)
+- Intersection Of Two Arrays - Path(LeetCode/Algorithms/Intersection Of Two Arrays)
+- Sum Of Two Integers - Path(LeetCode/Algorithms/Sum Of Two Integers)
+- Ransom Note - Path(LeetCode/Algorithms/Ransom Note)
+- First Unique Character In A String - Path(LeetCode/Algorithms/First Unique Character In A String)
+- Find The Difference - Path(LeetCode/Algorithms/Find The Difference)
