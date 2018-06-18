@@ -34,3 +34,6 @@ List of all the problems solved on LeetCode:
 - Ransom Note - Path(LeetCode/Algorithms/Ransom Note)
 - First Unique Character In A String - Path(LeetCode/Algorithms/First Unique Character In A String)
 - Find The Difference - Path(LeetCode/Algorithms/Find The Difference)
+- Fizz Buzz - Path(LeetCode/Algorithms/Fizz Buzz)
+- Find All Numbers Disappeared in an Array - Path(LeetCode/Algorithms/Find All Numbers Disappeared in an Array)
+- Max Consecutive Ones - Path(LeetCode/Algorithms/Max Consecutive Ones)
