@@ -37,3 +37,6 @@ List of all the problems solved on LeetCode:
 - Fizz Buzz - Path(LeetCode/Algorithms/Fizz Buzz)
 - Find All Numbers Disappeared in an Array - Path(LeetCode/Algorithms/Find All Numbers Disappeared in an Array)
 - Max Consecutive Ones - Path(LeetCode/Algorithms/Max Consecutive Ones)
+- Perfect Number - Path(LeetCode/Algorithms/Perfect Number)
+- Detect Capital - Path(LeetCode/Algorithms/Detect Capital)
+- Single Element in a Sorted Array - Path(LeetCode/Algorithms/Single Element in a Sorted Array)
