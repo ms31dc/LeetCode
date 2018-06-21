@@ -40,3 +40,7 @@ List of all the problems solved on LeetCode:
 - Perfect Number - Path(LeetCode/Algorithms/Perfect Number)
 - Detect Capital - Path(LeetCode/Algorithms/Detect Capital)
 - Single Element in a Sorted Array - Path(LeetCode/Algorithms/Single Element in a Sorted Array)
+- Student Attendance Record I - Path(LeetCode/Algorithms/Student Attendance Record I)
+- Reverse Words in a String III - Path(LeetCode/Algorithms/Reverse Words in a String III)
+- Distribute Candies - Path(LeetCode/Algorithms/Distribute Candies)
+- Maximum Product of Three Numbers - Path(LeetCode/Algorithms/Maximum Product of Three Numbers)
