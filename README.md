@@ -44,3 +44,5 @@ List of all the problems solved on LeetCode:
 - Reverse Words in a String III - Path(LeetCode/Algorithms/Reverse Words in a String III)
 - Distribute Candies - Path(LeetCode/Algorithms/Distribute Candies)
 - Maximum Product of Three Numbers - Path(LeetCode/Algorithms/Maximum Product of Three Numbers)
+- Rotated Digits - Path(LeetCode/Algorithms/Rotated Digits) 
+- Rotate Strings - Path(LeetCode/Algorithms/Rotate Strings) 
