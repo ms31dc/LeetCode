@@ -48,3 +48,5 @@ List of all the problems solved on LeetCode:
 - Rotate Strings - Path(LeetCode/Algorithms/Rotate Strings)
 - Positions of Large Groups - Path(LeetCode/Algorithms/Positions of Large Groups)
 - Flipping an Image - Path(LeetCode/Algorithms/Rotate Strings)
+- Backspace String Compare - Path(LeetCode/Algorithms/Backspace String Compare)
+- Shifting Letters - Path(LeetCode/Algorithms/Shifting Letters)
