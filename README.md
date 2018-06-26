@@ -52,3 +52,5 @@ List of all the problems solved on LeetCode:
 - Shifting Letters - Path(LeetCode/Algorithms/Shifting Letters)
 - Peak Index in a Mountain Array - Path(LeetCode/Algorithms/Peak Index in a Mountain Array)
 - Buddy Strings - Path(LeetCode/Algorithms/Buddy Strings)
+- Palindrome Number - Path(LeetCode/Algorithms/Palindrome Number)
+- Roman To Integer - Path(LeetCode/Algorithms/Roman To Integer)
