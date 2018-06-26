@@ -50,3 +50,5 @@ List of all the problems solved on LeetCode:
 - Flipping an Image - Path(LeetCode/Algorithms/Rotate Strings)
 - Backspace String Compare - Path(LeetCode/Algorithms/Backspace String Compare)
 - Shifting Letters - Path(LeetCode/Algorithms/Shifting Letters)
+- Peak Index in a Mountain Array - Path(LeetCode/Algorithms/Peak Index in a Mountain Array)
+- Buddy Strings - Path(LeetCode/Algorithms/Buddy Strings)
