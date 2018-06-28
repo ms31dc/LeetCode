@@ -54,3 +54,5 @@ List of all the problems solved on LeetCode:
 - Buddy Strings - Path(LeetCode/Algorithms/Buddy Strings)
 - Palindrome Number - Path(LeetCode/Algorithms/Palindrome Number)
 - Roman To Integer - Path(LeetCode/Algorithms/Roman To Integer)
+- Valid Parentheses - Path(LeetCode/Algorithms/Valid Parentheses)
+- Remove Element - Path(LeetCode/Algorithms/Remove Element)
