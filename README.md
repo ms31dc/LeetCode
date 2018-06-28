@@ -56,3 +56,5 @@ List of all the problems solved on LeetCode:
 - Roman To Integer - Path(LeetCode/Algorithms/Roman To Integer)
 - Valid Parentheses - Path(LeetCode/Algorithms/Valid Parentheses)
 - Remove Element - Path(LeetCode/Algorithms/Remove Element)
+- Count and Say - Path(LeetCode/Algorithms/Count and Say)
+- Maximum Subarray - Path(LeetCode/Algorithms/Maximum Subarray)
