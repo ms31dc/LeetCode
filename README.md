@@ -58,3 +58,5 @@ List of all the problems solved on LeetCode:
 - Remove Element - Path(LeetCode/Algorithms/Remove Element)
 - Count and Say - Path(LeetCode/Algorithms/Count and Say)
 - Maximum Subarray - Path(LeetCode/Algorithms/Maximum Subarray)
+- Length of Last Word - Path(LeetCode/Algorithms/Length of Last Word)
+- Climbing Stairs - Path(LeetCode/Algorithms/Climbing Stairs)
