@@ -60,3 +60,5 @@ List of all the problems solved on LeetCode:
 - Maximum Subarray - Path(LeetCode/Algorithms/Maximum Subarray)
 - Length of Last Word - Path(LeetCode/Algorithms/Length of Last Word)
 - Climbing Stairs - Path(LeetCode/Algorithms/Climbing Stairs)
+- Single Number II - Path(LeetCode/Algorithms/Single Number II)
+- Number of 1 Bits - Path(LeetCode/Algorithms/Number of 1 Bits)
