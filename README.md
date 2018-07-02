@@ -62,3 +62,5 @@ List of all the problems solved on LeetCode:
 - Climbing Stairs - Path(LeetCode/Algorithms/Climbing Stairs)
 - Single Number II - Path(LeetCode/Algorithms/Single Number II)
 - Number of 1 Bits - Path(LeetCode/Algorithms/Number of 1 Bits)
+- Contains Duplicate - Path(LeetCode/Algorithms/Contains Duplicate)
+- Valid Anagram - Path(LeetCode/Algorithms/Valid Anagram)
