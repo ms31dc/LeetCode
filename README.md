@@ -64,3 +64,5 @@ List of all the problems solved on LeetCode:
 - Number of 1 Bits - Path(LeetCode/Algorithms/Number of 1 Bits)
 - Contains Duplicate - Path(LeetCode/Algorithms/Contains Duplicate)
 - Valid Anagram - Path(LeetCode/Algorithms/Valid Anagram)
+- Single Number III - Path(LeetCode/Algorithms/Single Number III)
+- Ugly Number - Path(LeetCode/Algorithms/Ugly Number)
