@@ -66,3 +66,5 @@ List of all the problems solved on LeetCode:
 - Valid Anagram - Path(LeetCode/Algorithms/Valid Anagram)
 - Single Number III - Path(LeetCode/Algorithms/Single Number III)
 - Ugly Number - Path(LeetCode/Algorithms/Ugly Number)
+- Find the Duplicate Number - Path(LeetCode/Algorithms/Find the Duplicate Number)
+- Bulb Switcher - Path(LeetCode/Algorithms/Bulb Switcher)
