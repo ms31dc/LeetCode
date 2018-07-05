@@ -68,5 +68,7 @@ List of all the problems solved on LeetCode:
 - Ugly Number - Path(LeetCode/Algorithms/Ugly Number)
 - Find the Duplicate Number - Path(LeetCode/Algorithms/Find the Duplicate Number)
 - Bulb Switcher - Path(LeetCode/Algorithms/Bulb Switcher)
+- Power of Two - Path(LeetCode/Algorithms/Power of Two)
 - Power of Three - Path(LeetCode/Algorithms/Power of Three)
+- Power of Four - Path(LeetCode/Algorithms/Power of Four)
 - Counting Bits - Path(LeetCode/Algorithms/Counting Bits)
