@@ -72,3 +72,4 @@ List of all the problems solved on LeetCode:
 - Power of Three - Path(LeetCode/Algorithms/Power of Three)
 - Power of Four - Path(LeetCode/Algorithms/Power of Four)
 - Counting Bits - Path(LeetCode/Algorithms/Counting Bits)
+- Valid Perfect Square - Path(LeetCode/Algorithms/Valid Perfect Square)
