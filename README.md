@@ -73,3 +73,5 @@ List of all the problems solved on LeetCode:
 - Power of Four - Path(LeetCode/Algorithms/Power of Four)
 - Counting Bits - Path(LeetCode/Algorithms/Counting Bits)
 - Valid Perfect Square - Path(LeetCode/Algorithms/Valid Perfect Square)
+- Guess Number Higher or Lower - Path(LeetCode/Algorithms/Guess Number Higher or Lower)
+- Find All Duplicates in an Array - Path(LeetCode/Algorithms/Find All Duplicates in an Array)
