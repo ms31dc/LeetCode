@@ -75,3 +75,5 @@ List of all the problems solved on LeetCode:
 - Valid Perfect Square - Path(LeetCode/Algorithms/Valid Perfect Square)
 - Guess Number Higher or Lower - Path(LeetCode/Algorithms/Guess Number Higher or Lower)
 - Find All Duplicates in an Array - Path(LeetCode/Algorithms/Find All Duplicates in an Array)
+- Best Time to Buy and Sell Stock - Path(LeetCode/Algorithms/Best Time to Buy and Sell Stock)
+- Best Time to Buy and Sell Stock II - Path(LeetCode/Algorithms/Best Time to Buy and Sell Stock II)
