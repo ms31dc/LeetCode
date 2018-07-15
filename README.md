@@ -77,3 +77,5 @@ List of all the problems solved on LeetCode:
 - Find All Duplicates in an Array - Path(LeetCode/Algorithms/Find All Duplicates in an Array)
 - Best Time to Buy and Sell Stock - Path(LeetCode/Algorithms/Best Time to Buy and Sell Stock)
 - Best Time to Buy and Sell Stock II - Path(LeetCode/Algorithms/Best Time to Buy and Sell Stock II)
+- First Bad Version - Path(LeetCode/Algorithms/First Bad Version)
+- Two Sum II - Input array is sorted - Path(LeetCode/Algorithms/Two Sum II)
