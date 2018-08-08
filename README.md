@@ -80,3 +80,4 @@ List of all the problems solved on LeetCode:
 - First Bad Version - Path(LeetCode/Algorithms/First Bad Version)
 - Two Sum II - Input array is sorted - Path(LeetCode/Algorithms/Two Sum II)
 - Median of Two Sorted Arrays - Path(LeetCode/Algorithms/Median of Two Sorted Arrays)
+- Merge Two Sorted Lists - Path(LeetCode/Algorithms/Merge Two Sorted Lists)
