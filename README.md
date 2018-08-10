@@ -82,3 +82,4 @@ List of all the problems solved on LeetCode:
 - Median of Two Sorted Arrays - Path(LeetCode/Algorithms/Median of Two Sorted Arrays)
 - Merge Two Sorted Lists - Path(LeetCode/Algorithms/Merge Two Sorted Lists)
 - Remove Duplicates from Sorted Array - Path(LeetCode/Algorithms/Remove Duplicates from Sorted Array)
+- Find Peak Element - Path(LeetCode/Algorithms/Find Peak Element)
