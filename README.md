@@ -85,3 +85,4 @@ List of all the problems solved on LeetCode:
 - Find Peak Element - Path(LeetCode/Algorithms/Find Peak Element)
 - Reverse Linked List - Path(LeetCode/Algorithms/Reverse Linked List)
 - Product of Array Except Self - Path(LeetCode/Algorithms/Product of Array Except Self)
+- Reverse Vowels of a String - Path(LeetCode/Algorithms/Reverse Vowels of a String)
