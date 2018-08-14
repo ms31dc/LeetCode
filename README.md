@@ -86,3 +86,4 @@ List of all the problems solved on LeetCode:
 - Reverse Linked List - Path(LeetCode/Algorithms/Reverse Linked List)
 - Product of Array Except Self - Path(LeetCode/Algorithms/Product of Array Except Self)
 - Reverse Vowels of a String - Path(LeetCode/Algorithms/Reverse Vowels of a String)
+- Count Numbers With Unique Digits - Path(LeetCode/Algorithms/Count Numbers With Unique Digits)
