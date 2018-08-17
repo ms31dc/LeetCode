@@ -88,3 +88,4 @@ List of all the problems solved on LeetCode:
 - Reverse Vowels of a String - Path(LeetCode/Algorithms/Reverse Vowels of a String)
 - Count Numbers With Unique Digits - Path(LeetCode/Algorithms/Count Numbers With Unique Digits)
 - Delete Node In A Linked List - Path(LeetCode/Algorithms/Delete Node In A Linked List)
+- Merge Sorted Array - Path(LeetCode/Algorithms/Merge Sorted Array)
