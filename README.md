@@ -90,3 +90,4 @@ List of all the problems solved on LeetCode:
 - Delete Node In A Linked List - Path(LeetCode/Algorithms/Delete Node In A Linked List)
 - Merge Sorted Array - Path(LeetCode/Algorithms/Merge Sorted Array)
 - Teemo Attacking - Path(LeetCode/Algorithms/Teemo Attacking) 
+- Can Place Flowers - Path(LeetCode/Algorithms/Can Place Flowers) 
