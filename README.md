@@ -91,3 +91,4 @@ List of all the problems solved on LeetCode:
 - Merge Sorted Array - Path(LeetCode/Algorithms/Merge Sorted Array)
 - Teemo Attacking - Path(LeetCode/Algorithms/Teemo Attacking) 
 - Can Place Flowers - Path(LeetCode/Algorithms/Can Place Flowers) 
+- Fair Candy Swap - Path(LeetCode/Algorithms/Fair Candy Swap)
