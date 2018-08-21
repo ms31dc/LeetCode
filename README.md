@@ -92,3 +92,4 @@ List of all the problems solved on LeetCode:
 - Teemo Attacking - Path(LeetCode/Algorithms/Teemo Attacking) 
 - Can Place Flowers - Path(LeetCode/Algorithms/Can Place Flowers) 
 - Fair Candy Swap - Path(LeetCode/Algorithms/Fair Candy Swap)
+- Relative Ranks - Path(LeetCode/Algorithms/Relative Ranks)
