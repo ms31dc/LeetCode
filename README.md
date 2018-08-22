@@ -93,3 +93,4 @@ List of all the problems solved on LeetCode:
 - Can Place Flowers - Path(LeetCode/Algorithms/Can Place Flowers) 
 - Fair Candy Swap - Path(LeetCode/Algorithms/Fair Candy Swap)
 - Relative Ranks - Path(LeetCode/Algorithms/Relative Ranks)
+- Remove Duplicates from Sorted List - Path(LeetCode/Algorithms/Remove Duplicates from Sorted List)
