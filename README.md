@@ -95,3 +95,4 @@ List of all the problems solved on LeetCode:
 - Relative Ranks - Path(LeetCode/Algorithms/Relative Ranks)
 - Remove Duplicates from Sorted List - Path(LeetCode/Algorithms/Remove Duplicates from Sorted List)
 - Remove Duplicates from Sorted Array II - Path(LeetCode/Algorithms/Remove Duplicates from Sorted Array II)
+- To Lower Case - Path(LeetCode/Algorithms/To Lower Case) 
