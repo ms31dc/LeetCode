@@ -97,3 +97,4 @@ List of all the problems solved on LeetCode:
 - Remove Duplicates from Sorted Array II - Path(LeetCode/Algorithms/Remove Duplicates from Sorted Array II)
 - To Lower Case - Path(LeetCode/Algorithms/To Lower Case) 
 - Daily Temperatures - Path(LeetCode/Algorithms/Daily Temperatures)
+- Sum of Square Numbers - Path(LeetCode/Algorithms/Sum of Square Numbers)
