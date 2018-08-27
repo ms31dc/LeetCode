@@ -98,3 +98,4 @@ List of all the problems solved on LeetCode:
 - To Lower Case - Path(LeetCode/Algorithms/To Lower Case) 
 - Daily Temperatures - Path(LeetCode/Algorithms/Daily Temperatures)
 - Sum of Square Numbers - Path(LeetCode/Algorithms/Sum of Square Numbers)
+- Set Mismatch - Path(LeetCode/Algorithms/Set Mismatch)
