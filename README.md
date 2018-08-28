@@ -99,3 +99,4 @@ List of all the problems solved on LeetCode:
 - Daily Temperatures - Path(LeetCode/Algorithms/Daily Temperatures)
 - Sum of Square Numbers - Path(LeetCode/Algorithms/Sum of Square Numbers)
 - Set Mismatch - Path(LeetCode/Algorithms/Set Mismatch)
+- Degree of an Array - Path(LeetCode/Algorithms/Degree of an Array)
