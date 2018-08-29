@@ -100,3 +100,4 @@ List of all the problems solved on LeetCode:
 - Sum of Square Numbers - Path(LeetCode/Algorithms/Sum of Square Numbers)
 - Set Mismatch - Path(LeetCode/Algorithms/Set Mismatch)
 - Degree of an Array - Path(LeetCode/Algorithms/Degree of an Array)
+- Binary Number with Alternating Bits - Path(LeetCode/Algorithms/Binary Number with Alternating Bits)
