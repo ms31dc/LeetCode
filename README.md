@@ -101,3 +101,4 @@ List of all the problems solved on LeetCode:
 - Set Mismatch - Path(LeetCode/Algorithms/Set Mismatch)
 - Degree of an Array - Path(LeetCode/Algorithms/Degree of an Array)
 - Binary Number with Alternating Bits - Path(LeetCode/Algorithms/Binary Number with Alternating Bits)
+- 2 Keys Keyboard - Path(LeetCode/Algorithms/2 Keys Keyboard) 
