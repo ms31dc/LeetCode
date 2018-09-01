@@ -103,3 +103,4 @@ List of all the problems solved on LeetCode:
 - Binary Number with Alternating Bits - Path(LeetCode/Algorithms/Binary Number with Alternating Bits)
 - 2 Keys Keyboard - Path(LeetCode/Algorithms/2 Keys Keyboard) 
 - Binary Search - Path(LeetCode/Algorithms/Binary Search)
+- Remove Linked List Elements - Path(LeetCode/Algorithms/Remove Linked List Elements)
