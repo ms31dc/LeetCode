@@ -105,3 +105,4 @@ List of all the problems solved on LeetCode:
 - Binary Search - Path(LeetCode/Algorithms/Binary Search)
 - Remove Linked List Elements - Path(LeetCode/Algorithms/Remove Linked List Elements)
 - Lemonade Change - Path(LeetCode/Algorithms/Lemonade Change)
+- Binary Gap - Path(LeetCode/Algorithms/Binary Gap)
