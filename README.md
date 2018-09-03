@@ -106,3 +106,4 @@ List of all the problems solved on LeetCode:
 - Remove Linked List Elements - Path(LeetCode/Algorithms/Remove Linked List Elements)
 - Lemonade Change - Path(LeetCode/Algorithms/Lemonade Change)
 - Binary Gap - Path(LeetCode/Algorithms/Binary Gap)
+- Middle of the Linked List - Path(LeetCode/Algorithms/Middle of the Linked List)
