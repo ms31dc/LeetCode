@@ -107,3 +107,4 @@ List of all the problems solved on LeetCode:
 - Lemonade Change - Path(LeetCode/Algorithms/Lemonade Change)
 - Binary Gap - Path(LeetCode/Algorithms/Binary Gap)
 - Middle of the Linked List - Path(LeetCode/Algorithms/Middle of the Linked List)
+- Stone Game - Path(LeetCode/Algorithms/Stone Game)
