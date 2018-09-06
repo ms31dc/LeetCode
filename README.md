@@ -108,3 +108,4 @@ List of all the problems solved on LeetCode:
 - Binary Gap - Path(LeetCode/Algorithms/Binary Gap)
 - Middle of the Linked List - Path(LeetCode/Algorithms/Middle of the Linked List)
 - Stone Game - Path(LeetCode/Algorithms/Stone Game)
+- Largest Number At Least Twice of Others - Path(LeetCode/Algorithms/Largest Number At Least Twice of Others)
