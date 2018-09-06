@@ -109,3 +109,4 @@ List of all the problems solved on LeetCode:
 - Middle of the Linked List - Path(LeetCode/Algorithms/Middle of the Linked List)
 - Stone Game - Path(LeetCode/Algorithms/Stone Game)
 - Largest Number At Least Twice of Others - Path(LeetCode/Algorithms/Largest Number At Least Twice of Others)
+- Monotonic Array - Path(LeetCode/Algorithms/Monotonic Array)
