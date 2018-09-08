@@ -110,3 +110,4 @@ List of all the problems solved on LeetCode:
 - Stone Game - Path(LeetCode/Algorithms/Stone Game)
 - Largest Number At Least Twice of Others - Path(LeetCode/Algorithms/Largest Number At Least Twice of Others)
 - Monotonic Array - Path(LeetCode/Algorithms/Monotonic Array)
+- Prime Number of Set Bits in Binary Representation - Path(LeetCode/Algorithms/Prime Number of Set Bits in Binary Representation)
