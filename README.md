@@ -114,3 +114,4 @@ List of all the problems solved on LeetCode:
 - Find First and Last Position of Element in Sorted Array - Path(LeetCode/Algorithms/Find First and Last Position of Element in Sorted Array)
 - Sort Array By Parity - Path(LeetCode/Algorithms/Sort Array By Parity)
 - Intersection of Two Arrays II - Path(LeetCode/Algorithms/Intersection of Two Arrays II)
+- Remove Nth Node From End of List - Path(LeetCode/Algorithms/Remove Nth Node From End of List)
