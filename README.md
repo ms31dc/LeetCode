@@ -116,3 +116,4 @@ List of all the problems solved on LeetCode:
 - Intersection of Two Arrays II - Path(LeetCode/Algorithms/Intersection of Two Arrays II)
 - Remove Nth Node From End of List - Path(LeetCode/Algorithms/Remove Nth Node From End of List)
 - Maximum XOR of Two Numbers in an Array - Path(LeetCode/Algorithms/Maximum XOR of Two Numbers in an Array)
+- Implement strStr - Path(LeetCode/Algorithms/Implement strStr)
