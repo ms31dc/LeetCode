@@ -118,3 +118,4 @@ List of all the problems solved on LeetCode:
 - Maximum XOR of Two Numbers in an Array - Path(LeetCode/Algorithms/Maximum XOR of Two Numbers in an Array)
 - Implement strStr - Path(LeetCode/Algorithms/Implement strStr)
 - 1-bit and 2-bit Characters - Path(LeetCode/Algorithms/1-bit and 2-bit Characters)
+- Assign Cookies - Path(LeetCode/Algorithms/Assign Cookies)
