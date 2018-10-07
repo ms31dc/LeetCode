@@ -120,3 +120,4 @@ List of all the problems solved on LeetCode:
 - 1-bit and 2-bit Characters - Path(LeetCode/Algorithms/1-bit and 2-bit Characters)
 - Assign Cookies - Path(LeetCode/Algorithms/Assign Cookies)
 - Repeated Substring Pattern - Path(LeetCode/Algorithms/Repeated Substring Pattern)
+- Repeated String Match - Path(LeetCode/Algorithms/Repeated String Match)
