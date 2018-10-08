@@ -121,3 +121,4 @@ List of all the problems solved on LeetCode:
 - Assign Cookies - Path(LeetCode/Algorithms/Assign Cookies)
 - Repeated Substring Pattern - Path(LeetCode/Algorithms/Repeated Substring Pattern)
 - Repeated String Match - Path(LeetCode/Algorithms/Repeated String Match)
+- Transpose Matrix - Path(LeetCode/Algorithms/Transpose Matrix)
