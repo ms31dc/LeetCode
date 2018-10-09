@@ -122,3 +122,4 @@ List of all the problems solved on LeetCode:
 - Repeated Substring Pattern - Path(LeetCode/Algorithms/Repeated Substring Pattern)
 - Repeated String Match - Path(LeetCode/Algorithms/Repeated String Match)
 - Transpose Matrix - Path(LeetCode/Algorithms/Transpose Matrix)
+- Pow X and N - Path(LeetCode/Algorithms/Pow X and N)
