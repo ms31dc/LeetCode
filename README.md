@@ -123,3 +123,4 @@ List of all the problems solved on LeetCode:
 - Repeated String Match - Path(LeetCode/Algorithms/Repeated String Match)
 - Transpose Matrix - Path(LeetCode/Algorithms/Transpose Matrix)
 - Pow X and N - Path(LeetCode/Algorithms/Pow X and N)
+- Max Increase to Keep City Skyline - Path(LeetCode/Algorithms/Max Increase to Keep City Skyline)
