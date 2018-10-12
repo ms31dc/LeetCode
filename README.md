@@ -124,4 +124,5 @@ List of all the problems solved on LeetCode:
 - Transpose Matrix - Path(LeetCode/Algorithms/Transpose Matrix)
 - Pow X and N - Path(LeetCode/Algorithms/Pow X and N)
 - Max Increase to Keep City Skyline - Path(LeetCode/Algorithms/Max Increase to Keep City Skyline)
+- Linked List Cycle - Path(LeetCode/Algorithms/Linked List Cycle)
 - Linked List Cycle II - Path(LeetCode/Algorithms/Linked List Cycle II)
