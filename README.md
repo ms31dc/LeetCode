@@ -126,3 +126,4 @@ List of all the problems solved on LeetCode:
 - Max Increase to Keep City Skyline - Path(LeetCode/Algorithms/Max Increase to Keep City Skyline)
 - Linked List Cycle - Path(LeetCode/Algorithms/Linked List Cycle)
 - Linked List Cycle II - Path(LeetCode/Algorithms/Linked List Cycle II)
+- Spiral Matrix - Path(LeetCode/Algorithms/Spiral Matrix)
