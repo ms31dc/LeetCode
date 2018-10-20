@@ -131,3 +131,4 @@ List of all the problems solved on LeetCode:
 - Sort Array By Parity II - Path(LeetCode/Algorithms/Spiral Matrix II)
 - Minimum Add to Make Parentheses Valid - Path(LeetCode/Algorithms/Minimum Add to Make Parentheses Valid)
 - Maximum Depth of Binary Tree - Path(LeetCode/Algorithms/Maximum Depth of Binary Tree)
+- Smallest Range I - Path(LeetCode/Algorithms/Maximum Depth of Binary Tree)
