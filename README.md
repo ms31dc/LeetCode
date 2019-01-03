@@ -133,3 +133,4 @@ List of all the problems solved on LeetCode:
 - Maximum Depth of Binary Tree - Path(LeetCode/Algorithms/Maximum Depth of Binary Tree)
 - Smallest Range I - Path(LeetCode/Algorithms/Smallest Range I)
 - DI String Match - Path(LeetCode/Algorithms/DI String Match)
+- Delete Columns to Make Sorted - Path(LeetCode/Algorithms/Delete Columns to Make Sorted)
