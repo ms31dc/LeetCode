@@ -134,3 +134,4 @@ List of all the problems solved on LeetCode:
 - Smallest Range I - Path(LeetCode/Algorithms/Smallest Range I)
 - DI String Match - Path(LeetCode/Algorithms/DI String Match)
 - Delete Columns to Make Sorted - Path(LeetCode/Algorithms/Delete Columns to Make Sorted)
+- N-Repeated Element in Size 2N Array - Path(LeetCode/Algorithms/N-Repeated Element in Size 2N Array)
