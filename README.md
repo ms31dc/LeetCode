@@ -136,3 +136,4 @@ List of all the problems solved on LeetCode:
 - Delete Columns to Make Sorted - Path(LeetCode/Algorithms/Delete Columns to Make Sorted)
 - N-Repeated Element in Size 2N Array - Path(LeetCode/Algorithms/N-Repeated Element in Size 2N Array)
 - Valid Mountain Array - Path(LeetCode/Algorithms/Valid Mountain Array)
+- Reverse Bits - Path(LeetCode/Algorithms/Reverse Bits)
