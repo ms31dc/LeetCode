@@ -137,3 +137,4 @@ List of all the problems solved on LeetCode:
 - N-Repeated Element in Size 2N Array - Path(LeetCode/Algorithms/N-Repeated Element in Size 2N Array)
 - Valid Mountain Array - Path(LeetCode/Algorithms/Valid Mountain Array)
 - Reverse Bits - Path(LeetCode/Algorithms/Reverse Bits)
+- Score of Parentheses - Path(LeetCode/Algorithms/Score of Parentheses)
