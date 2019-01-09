@@ -139,3 +139,4 @@ List of all the problems solved on LeetCode:
 - Reverse Bits - Path(LeetCode/Algorithms/Reverse Bits)
 - Score of Parentheses - Path(LeetCode/Algorithms/Score of Parentheses)
 - Valid Palindrome II - Path(LeetCode/Algorithms/Valid Palindrome II)
+- Minimum Index Sum of Two Lists - Path(LeetCode/Algorithms/Minimum Index Sum of Two Lists)
