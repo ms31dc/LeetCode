@@ -140,3 +140,4 @@ List of all the problems solved on LeetCode:
 - Score of Parentheses - Path(LeetCode/Algorithms/Score of Parentheses)
 - Valid Palindrome II - Path(LeetCode/Algorithms/Valid Palindrome II)
 - Minimum Index Sum of Two Lists - Path(LeetCode/Algorithms/Minimum Index Sum of Two Lists)
+- Number of Segments in a String - Path(LeetCode/Algorithms/Number of Segments in a String)
