@@ -141,3 +141,4 @@ List of all the problems solved on LeetCode:
 - Valid Palindrome II - Path(LeetCode/Algorithms/Valid Palindrome II)
 - Minimum Index Sum of Two Lists - Path(LeetCode/Algorithms/Minimum Index Sum of Two Lists)
 - Number of Segments in a String - Path(LeetCode/Algorithms/Number of Segments in a String)
+- Valid Palindrome -  Path(LeetCode/Algorithms/Valid Palindrome)
