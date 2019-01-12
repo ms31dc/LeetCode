@@ -1,6 +1,7 @@
 # LeetCode
 List of all the problems solved on LeetCode:
 
+Algorithms:
 - Jewels and Stones - Path(LeetCode/Algorithms/Jewels and Stones)
 - Goat Latin - Path(LeetCode/Algorithms/Goat Latin)
 - Next Greater Element I - Path(LeetCode/Algorithms/Next Greater Element I)
@@ -141,4 +142,7 @@ List of all the problems solved on LeetCode:
 - Valid Palindrome II - Path(LeetCode/Algorithms/Valid Palindrome II)
 - Minimum Index Sum of Two Lists - Path(LeetCode/Algorithms/Minimum Index Sum of Two Lists)
 - Number of Segments in a String - Path(LeetCode/Algorithms/Number of Segments in a String)
-- Valid Palindrome -  Path(LeetCode/Algorithms/Valid Palindrome)
+- Valid Palindrome - Path(LeetCode/Algorithms/Valid Palindrome)
+
+Database:
+- Swap Salary - Path(LeetCode/Database/Swap Salary)
