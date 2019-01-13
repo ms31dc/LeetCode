@@ -147,3 +147,4 @@ Algorithms:
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
+- Not Boring Movies - Path(LeetCode/Database/Not Boring Movies)
