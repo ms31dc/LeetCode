@@ -149,3 +149,4 @@ Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
 - Not Boring Movies - Path(LeetCode/Database/Not Boring Movies)
 - Big Countries - Path(LeetCode/Database/Big Countries)
+- Duplicate Emails - Path(LeetCode/Database/Duplicate Emails)
