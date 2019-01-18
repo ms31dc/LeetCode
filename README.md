@@ -153,3 +153,4 @@ Database:
 
 Shell:
 - Tenth Line - Path(LeetCode/Database/Tenth Line)
+- Word Frequency - Path(LeetCode/Database/Word Frequency)
