@@ -150,6 +150,7 @@ Database:
 - Not Boring Movies - Path(LeetCode/Database/Not Boring Movies)
 - Big Countries - Path(LeetCode/Database/Big Countries)
 - Duplicate Emails - Path(LeetCode/Database/Duplicate Emails)
+- Combine Two Tables - Path(LeetCode/Database/Combine Two Tables)
 
 Shell:
 - Tenth Line - Path(LeetCode/Database/Tenth Line)
