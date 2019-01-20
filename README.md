@@ -151,6 +151,7 @@ Database:
 - Big Countries - Path(LeetCode/Database/Big Countries)
 - Duplicate Emails - Path(LeetCode/Database/Duplicate Emails)
 - Combine Two Tables - Path(LeetCode/Database/Combine Two Tables)
+- Second Highest Salary - Path(LeetCode/Database/Second Highest Salary)
 
 Shell:
 - Tenth Line - Path(LeetCode/Database/Tenth Line)
