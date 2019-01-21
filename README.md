@@ -152,6 +152,7 @@ Database:
 - Duplicate Emails - Path(LeetCode/Database/Duplicate Emails)
 - Combine Two Tables - Path(LeetCode/Database/Combine Two Tables)
 - Second Highest Salary - Path(LeetCode/Database/Second Highest Salary)
+- Classes More Than 5 Students - Path(LeetCode/Database/Classes More Than 5 Students)
 
 Shell:
 - Tenth Line - Path(LeetCode/Database/Tenth Line)
