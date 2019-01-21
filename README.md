@@ -153,6 +153,7 @@ Database:
 - Combine Two Tables - Path(LeetCode/Database/Combine Two Tables)
 - Second Highest Salary - Path(LeetCode/Database/Second Highest Salary)
 - Classes More Than 5 Students - Path(LeetCode/Database/Classes More Than 5 Students)
+- Rising Temperature - Path(LeetCode/Database/Rising Temperature)
 
 Shell:
 - Tenth Line - Path(LeetCode/Database/Tenth Line)
