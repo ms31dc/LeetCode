@@ -155,6 +155,7 @@ Database:
 - Classes More Than 5 Students - Path(LeetCode/Database/Classes More Than 5 Students)
 - Rising Temperature - Path(LeetCode/Database/Rising Temperature)
 - Delete Duplicate Emails - Path(LeetCode/Database/Delete Duplicate Emails)
+- Nth Highest Salary - Path(LeetCode/Database/Nth Highest Salary)
 
 Shell:
 - Tenth Line - Path(LeetCode/Database/Tenth Line)
