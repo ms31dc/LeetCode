@@ -157,6 +157,7 @@ Database:
 - Delete Duplicate Emails - Path(LeetCode/Database/Delete Duplicate Emails)
 - Nth Highest Salary - Path(LeetCode/Database/Nth Highest Salary)
 - Rank Scores - Path(LeetCode/Database/Nth Highest Salary)
+- Customers Who Never Order - Path(LeetCode/Database/Customers Who Never Order)
 
 Shell:
 - Tenth Line - Path(LeetCode/Database/Tenth Line)
