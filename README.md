@@ -158,6 +158,7 @@ Database:
 - Nth Highest Salary - Path(LeetCode/Database/Nth Highest Salary)
 - Rank Scores - Path(LeetCode/Database/Nth Highest Salary)
 - Customers Who Never Order - Path(LeetCode/Database/Customers Who Never Order)
+- Department Highest Salary - Path(LeetCode/Database/Department Highest Salary)
 
 Shell:
 - Tenth Line - Path(LeetCode/Database/Tenth Line)
