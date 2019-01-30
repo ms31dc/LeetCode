@@ -144,6 +144,7 @@ Algorithms:
 - Number of Segments in a String - Path(LeetCode/Algorithms/Number of Segments in a String)
 - Valid Palindrome - Path(LeetCode/Algorithms/Valid Palindrome)
 - Linked List Components - Path(LeetCode/Algorithms/Linked List Components)
+- Largest Perimeter Triangle - Path(LeetCode/Algorithms/Largest Perimeter Triangle)
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
