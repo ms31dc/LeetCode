@@ -145,6 +145,7 @@ Algorithms:
 - Valid Palindrome - Path(LeetCode/Algorithms/Valid Palindrome)
 - Linked List Components - Path(LeetCode/Algorithms/Linked List Components)
 - Largest Perimeter Triangle - Path(LeetCode/Algorithms/Largest Perimeter Triangle)
+- Binary Tree Level Order Traversal - Path(LeetCode/Algorithms/Binary Tree Level Order Traversal)
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
