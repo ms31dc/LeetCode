@@ -150,6 +150,7 @@ Algorithms:
 - Symmetric Tree - Path(LeetCode/Algorithms/Symmetric Tree)
 - Sum of Even Numbers After Queries - Path(LeetCode/Algorithms/Sum of Even Numbers After Queries)
 - Validate Binary Search Tree - Path(LeetCode/Algorithms/Validate Binary Search Tree)
+- Permutations - Path(LeetCode/Algorithms/Permutations)
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
