@@ -151,6 +151,7 @@ Algorithms:
 - Sum of Even Numbers After Queries - Path(LeetCode/Algorithms/Sum of Even Numbers After Queries)
 - Validate Binary Search Tree - Path(LeetCode/Algorithms/Validate Binary Search Tree)
 - Permutations - Path(LeetCode/Algorithms/Permutations)
+- Path Sum - Path(LeetCode/Algorithms/Path Sum)
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
