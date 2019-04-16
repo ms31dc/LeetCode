@@ -152,6 +152,7 @@ Algorithms:
 - Validate Binary Search Tree - Path(LeetCode/Algorithms/Validate Binary Search Tree)
 - Permutations - Path(LeetCode/Algorithms/Permutations)
 - Path Sum - Path(LeetCode/Algorithms/Path Sum)
+- Binary Tree Maximum Path Sum - Path(LeetCode/Algorithms/Binary Tree Maximum Path Sum)
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
