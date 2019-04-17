@@ -153,6 +153,7 @@ Algorithms:
 - Permutations - Path(LeetCode/Algorithms/Permutations)
 - Path Sum - Path(LeetCode/Algorithms/Path Sum)
 - Binary Tree Maximum Path Sum - Path(LeetCode/Algorithms/Binary Tree Maximum Path Sum)
+- Number of Islands - Path(LeetCode/Algorithms/Number of Islands)
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
