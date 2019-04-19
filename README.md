@@ -155,6 +155,7 @@ Algorithms:
 - Binary Tree Maximum Path Sum - Path(LeetCode/Algorithms/Binary Tree Maximum Path Sum)
 - Number of Islands - Path(LeetCode/Algorithms/Number of Islands)
 - Find All Anagrams in a String - Path(LeetCode/Algorithms/Find All Anagrams in a String)
+- N-ary Tree Preorder Traversal - Path(LeetCode/Algorithms/N-ary Tree Preorder Traversal)
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
