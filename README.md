@@ -157,6 +157,7 @@ Algorithms:
 - Find All Anagrams in a String - Path(LeetCode/Algorithms/Find All Anagrams in a String)
 - N-ary Tree Preorder Traversal - Path(LeetCode/Algorithms/N-ary Tree Preorder Traversal)
 - N-ary Tree Postorder Traversal - Path(LeetCode/Algorithms/N-ary Tree Postorder Traversal)
+- Valid Square - Path(LeetCode/Algorithms/Valid Square)
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
