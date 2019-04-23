@@ -158,6 +158,7 @@ Algorithms:
 - N-ary Tree Preorder Traversal - Path(LeetCode/Algorithms/N-ary Tree Preorder Traversal)
 - N-ary Tree Postorder Traversal - Path(LeetCode/Algorithms/N-ary Tree Postorder Traversal)
 - Valid Square - Path(LeetCode/Algorithms/Valid Square)
+- Merge Two Binary Trees - Path(LeetCode/Algorithms/Merge Two Binary Trees)
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
