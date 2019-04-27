@@ -160,6 +160,7 @@ Algorithms:
 - Valid Square - Path(LeetCode/Algorithms/Valid Square)
 - Merge Two Binary Trees - Path(LeetCode/Algorithms/Merge Two Binary Trees)
 - Search in a Binary Search Tree - Path(LeetCode/Algorithms/Search in a Binary Search Tree)
+- Univalued Binary Tree - Path(LeetCode/Algorithms/Univalued Binary Tree)
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
