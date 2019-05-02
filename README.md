@@ -161,6 +161,7 @@ Algorithms:
 - Merge Two Binary Trees - Path(LeetCode/Algorithms/Merge Two Binary Trees)
 - Search in a Binary Search Tree - Path(LeetCode/Algorithms/Search in a Binary Search Tree)
 - Univalued Binary Tree - Path(LeetCode/Algorithms/Univalued Binary Tree)
+- Find Common Characters - Path(LeetCode/Algorithms/Find Common Characters)
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
