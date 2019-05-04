@@ -162,6 +162,7 @@ Algorithms:
 - Search in a Binary Search Tree - Path(LeetCode/Algorithms/Search in a Binary Search Tree)
 - Univalued Binary Tree - Path(LeetCode/Algorithms/Univalued Binary Tree)
 - Find Common Characters - Path(LeetCode/Algorithms/Find Common Characters)
+- Complement of Base 10 Integer - Path(LeetCode/Algorithms/Complement of Base 10 Integer)
 
 Database:
 - Swap Salary - Path(LeetCode/Database/Swap Salary)
